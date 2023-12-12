@@ -1,6 +1,6 @@
 👋 Hi, I'm SAMI ULLAH
 
-🚀 AI Developer | 🐍 Python Enthusiast | 🌐 Passionate about LangChain
+🚀 Associate AI Developer | Python Enthusiast | Passionate about LangChain
 
 🌱 Currently Learning
 - Machine Learning and Deep Learning for AI
