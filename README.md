@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm RAJA SAMIULLAH
 
-🚀 Associate AI Developer | Python Enthusiast | Passionate about LangChain
+🚀 AI/ML Engineer | Python Backend Developer | AI Automation
 
 🌱 Currently Learning
 - Machine Learning and Deep Learning for AI
